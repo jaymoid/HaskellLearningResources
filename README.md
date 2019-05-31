@@ -41,3 +41,7 @@ Haskell Weekly - twitter/
 
 ## Communities
 **FP Chat**
+
+## Tooling
+**GHCID**
+**Haskell IDE Engine**
