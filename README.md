@@ -17,18 +17,18 @@ https://github.com/tssm/up-to-date-real-world-haskell
 https://leanpub.com/thinking-with-types
 
 **Finding Succss and Failure in Haskell**  
-https://joyofhaskell.com/
-https://leanpub.com/finding-success-in-haskell. 
-http://www.lulu.com/shop/julie-moronuki-and-chris-martin/finding-success-and-failure-in-haskell/paperback/product-24110792.html
+https://joyofhaskell.com/  
+https://leanpub.com/finding-success-in-haskell   
+http://www.lulu.com/shop/julie-moronuki-and-chris-martin/finding-success-and-failure-in-haskell/paperback/product-24110792.html  
 
 **Bartosz Cat Theory book for Programmers**  
-https://www.blurb.co.uk/b/9008339-category-theory-for-programmers
-https://github.com/hmemcpy/milewski-ctfp-pdf
+https://www.blurb.co.uk/b/9008339-category-theory-for-programmers  
+https://github.com/hmemcpy/milewski-ctfp-pdf  
 
 ## Podcasts
 
 **HaskellCast**  
-No longer active :'(
+No longer active :'(  
 https://www.haskellcast.com/
 
 **Haskell Weekly**    
@@ -47,12 +47,12 @@ https://www.youtube.com/channel/UCUgxpaK7ySR-z6AXA5-uDuw
 ## Courses
 
 **FP Complete**  
-https://haskell.fpcomplete.com/syllabus
+https://haskell.fpcomplete.com/syllabus  
 Maybe Coursera https://twitter.com/snoyberg/status/1102105937014337536
 
 ## Mailing Lists / Weekly News
 **Haskell Weekly**  
-https://haskellweekly.news/
+https://haskellweekly.news/  
 https://twitter.com/haskellweekly
 
 
@@ -62,7 +62,7 @@ https://fpchat-invite.herokuapp.com/
 
 ## Tooling
 **GHCID**  
-https://github.com/ndmitchell/ghcid
+https://github.com/ndmitchell/ghcid  
 https://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html
 
 
