@@ -1,27 +1,27 @@
 # Haskell Learning Resources
 
 ## Books
-**Haskell from First Principles**
+**Haskell from First Principles**  
 http://haskellbook.com/
 
-**Learn you a Haskell for great good**
+**Learn you a Haskell for great good**  
 http://learnyouahaskell.com/
 
-**Thinking Functionally in Haskell**
+**Thinking Functionally in Haskell**  
 https://www.amazon.co.uk/Thinking-Functionally-Haskell-Richard-Bird/dp/1107452643
 
-**Real World Haskell**
+**Real World Haskell**  
 https://github.com/tssm/up-to-date-real-world-haskell
 
-**Thinking in Types**
+**Thinking in Types**  
 https://leanpub.com/thinking-with-types
 
-**Finding Succss and Failure in Haskell**
+**Finding Succss and Failure in Haskell**  
 https://joyofhaskell.com/
 https://leanpub.com/finding-success-in-haskell. 
 http://www.lulu.com/shop/julie-moronuki-and-chris-martin/finding-success-and-failure-in-haskell/paperback/product-24110792.html
 
-**Bartosz Cat Theory book for Programmers**
+**Bartosz Cat Theory book for Programmers**  
 https://www.blurb.co.uk/b/9008339-category-theory-for-programmers
 https://github.com/hmemcpy/milewski-ctfp-pdf
 
