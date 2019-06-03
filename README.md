@@ -16,6 +16,9 @@ https://github.com/tssm/up-to-date-real-world-haskell
 **Thinking in Types**  
 https://leanpub.com/thinking-with-types
 
+**A Type Of Programming**  
+https://atypeofprogramming.com/
+
 **Finding Succss and Failure in Haskell**  
 https://joyofhaskell.com/  
 https://leanpub.com/finding-success-in-haskell   
