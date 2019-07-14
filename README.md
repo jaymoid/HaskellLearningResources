@@ -77,6 +77,12 @@ https://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html
 **Haskell IDE Engine**  
 https://github.com/haskell/haskell-ide-engine
 
+**Haskell Code Explorer**
+https://haskell-code-explorer.mfix.io/
+
+**Hoogle**
+https://hoogle.haskell.org/
+
 
 ## Conferences
 **Lambda Conf**  
@@ -91,3 +97,4 @@ https://skillsmatter.com/conferences/11741-haskell-exchange-2019
 ## Papers
 List of foundational Haskell resources:   
 https://github.com/cohomolo-gy/haskell-resources/blob/master/README.md
+
