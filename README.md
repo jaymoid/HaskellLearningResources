@@ -41,7 +41,7 @@ https://haskellweekly.news/podcast/
 https://soundcloud.com/lambda-cast
 
 **CoRecursive**  
-General FP podcast that regularly features haskell content.
+General FP podcast that regularly features haskell content.  
 https://corecursive.com/
 
 **Other FP podcasts:**  
@@ -89,5 +89,5 @@ https://monadic.party/
 https://skillsmatter.com/conferences/11741-haskell-exchange-2019
 
 ## Papers
-List of foundational Haskell resources: 
+List of foundational Haskell resources:   
 https://github.com/cohomolo-gy/haskell-resources/blob/master/README.md
