@@ -77,10 +77,10 @@ https://www.parsonsmatt.org/2018/05/19/ghcid_for_the_win.html
 **Haskell IDE Engine**  
 https://github.com/haskell/haskell-ide-engine
 
-**Haskell Code Explorer**
+**Haskell Code Explorer**  
 https://haskell-code-explorer.mfix.io/
 
-**Hoogle**
+**Hoogle**  
 https://hoogle.haskell.org/
 
 
@@ -91,8 +91,11 @@ https://lambdaconf.zohobackstage.com/LambdaConf2019?lang=en
 **Monadic Party**  
 https://monadic.party/
 
-**Haskell Exchange:**  
+**Haskell Exchange**  
 https://skillsmatter.com/conferences/11741-haskell-exchange-2019
+
+**Lambda World**  
+http://www.lambda.world/
 
 ## Papers
 List of foundational Haskell resources:   
