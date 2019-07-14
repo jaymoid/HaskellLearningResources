@@ -24,7 +24,7 @@ https://joyofhaskell.com/
 https://leanpub.com/finding-success-in-haskell   
 http://www.lulu.com/shop/julie-moronuki-and-chris-martin/finding-success-and-failure-in-haskell/paperback/product-24110792.html  
 
-**Bartosz Cat Theory book for Programmers**  
+**Bartosz Milewski: Category Theory for Programmers**  
 https://www.blurb.co.uk/b/9008339-category-theory-for-programmers  
 https://github.com/hmemcpy/milewski-ctfp-pdf  
 
@@ -40,8 +40,13 @@ https://haskellweekly.news/podcast/
 **LambdaCast**  
 https://soundcloud.com/lambda-cast
 
+**CoRecursive**  
+General FP podcast that regularly features haskell content.
+https://corecursive.com/
+
 **Other FP podcasts:**  
 https://www.fpcasts.com/
+
 
 ## Videos
 **Haskell At work (YouTube)**  
@@ -82,3 +87,7 @@ https://monadic.party/
 
 **Haskell Exchange:**  
 https://skillsmatter.com/conferences/11741-haskell-exchange-2019
+
+## Papers
+List of foundational Haskell resources: 
+https://github.com/cohomolo-gy/haskell-resources/blob/master/README.md
